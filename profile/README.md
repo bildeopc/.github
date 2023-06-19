@@ -1,41 +1,46 @@
 <p align="center">
-  <a href="https://www.medusajs.com">
-    <img alt="BildeoPC" src="https://cdn.discordapp.com/attachments/811231774327177326/1095026021654351974/BildeoPC_logo_2.png" width="600" />
+  <a href="https://www.bildeopc.com/">
+    <img alt="BildeoPC" src="https://cdn.discordapp.com/attachments/811231774327177326/1095026021654351974/BildeoPC_logo_2.png" width="300" />
   </a>
 </p>
 
-<h1 align="center">
-  BildeoPC: AI-Powered Personalized PC Shopping
-</h1>
+# AI-Powered PC Builder Assistant and E-commerce Web App
 
-<p align="center">
-Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
-</p>
+This web app serves as an AI-powered PC builder assistant and e-commerce platform. It aims to simplify the process of building a PC by providing personalized recommendations for PC components and offering an intuitive interface for fine-tuning the selections. Users can also leverage the e-commerce features to add items to their cart, make payments, and purchase individual parts.
 
-<p align="center">
-  <a href="https://github.com/medusajs/medusa/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Medusa is released under the MIT license." />
-  </a>
-  <a href="https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs welcome!" />
-  </a>
-  <a href="https://discord.gg/xpCwq3Kfn8">
-    <img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Discord Chat" />
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=medusajs">
-    <img src="https://img.shields.io/twitter/follow/medusajs.svg?label=Follow%20@medusajs" alt="Follow @medusajs" />
-  </a>
-</p>
+## Key Features
 
-> **Prerequisites**: To use the starter you should have a Medusa server running locally on port 9000. Check out [medusa-starter-default](https://github.com/medusajs/medusa-starter-default) for a quick setup.
+- AI-powered PC component recommendations based on user requirements
+- Real-time chat functionality with AI responses for interactive guidance
+- Fine-tuning options for customized PC builds
+- Display of personalized PC part list based on AI recommendations
+- Seamless e-commerce experience for adding items to cart, making payments, and purchasing individual parts
 
-# Overview
+## Website
 
-![next-starter](https://user-images.githubusercontent.com/45367945/182571697-a68c502f-5844-4eea-8735-7683f775ac8b.png)
+Visit our website at [bildeopc.com](https://www.bildeopc.com/).
 
-The Medusa Next.js Starter is built with:
+## How to Use
 
-- [Next.js](https://nextjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Typescript](https://www.typescriptlang.org/)
-- [Medusa](https://medusajs.com/)
+1. Start by entering your requirements and questions in the chat interface.
+2. The AI-powered assistant, Stella, will provide personalized recommendations and guidance based on your inputs.
+3. Fine-tune the recommended PC build using the intuitive interface.
+4. Review the personalized PC part list based on the recommendations.
+5. Add items to your cart, make payments, and complete the purchase.
+
+## Technologies Used
+
+- React.js for building the front-end interface
+- AI/ML models for generating PC component recommendations
+- Axios for handling API requests
+- CSS, and Tailwind CSS for styling
+- Node.js for the back-end server
+- PostgreSQL for data storage
+
+## Contributing
+
+Contributions are welcome! If you have any ideas or suggestions, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
