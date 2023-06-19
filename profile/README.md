@@ -10,9 +10,11 @@ This web app serves as an AI-powered PC builder assistant and e-commerce platfor
 - Display of personalized PC part list based on AI recommendations
 - Seamless e-commerce experience for adding items to cart, making payments, and purchasing individual parts
 
-## Website
+## Installation
 
-Visit our website at [bildeopc.com](https://www.bildeopc.com/).
+For the frontend, please refer to the [frontend repository](https://github.com/bildeopc/storefront) and follow the instructions provided in the README.md file.
+
+For the backend, please refer to the [backend repository](https://github.com/bildeopc/backend) and follow the instructions provided in the README.md file.
 
 ## How to Use
 
@@ -30,6 +32,10 @@ Visit our website at [bildeopc.com](https://www.bildeopc.com/).
 - CSS, and Tailwind CSS for styling
 - Node.js for the back-end server
 - PostgreSQL for data storage
+
+## Website
+
+Visit the website at [bildeopc.com](https://www.bildeopc.com/).
 
 ## Contributing
 
