@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://www.bildeopc.com/">
-    <img alt="BildeoPC" src="https://cdn.discordapp.com/attachments/811231774327177326/1095026021654351974/BildeoPC_logo_2.png" width="300" />
-  </a>
-</p>
-
 # AI-Powered PC Builder Assistant and E-commerce Web App
 
 This web app serves as an AI-powered PC builder assistant and e-commerce platform. It aims to simplify the process of building a PC by providing personalized recommendations for PC components and offering an intuitive interface for fine-tuning the selections. Users can also leverage the e-commerce features to add items to their cart, make payments, and purchase individual parts.
